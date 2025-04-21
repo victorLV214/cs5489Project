@@ -1,6 +1,8 @@
 # 忽略 dataset 文件夹
 dataset/
 model/
+*.zip
+*.7z
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
